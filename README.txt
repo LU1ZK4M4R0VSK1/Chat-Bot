@@ -1,4 +1,25 @@
- ### O Conceito: API e Webhooks
+ 
+# Navegue até a pasta do seu projeto
+cd caminho/para/seu/projeto
+
+# Inicialize o repositório Git
+git init
+
+# Adicione os arquivos
+git add .
+
+# Faça o primeiro commit
+git commit -m "Primeiro commit"
+
+# Adicione o repositório remoto do GitHub
+git remote add origin https://github.com/seu-usuario/nome-do-repositorio.git
+
+# Envie para o GitHub
+git push -u origin main
+
+
+
+### O Conceito: API e Webhooks
 
 
   Para que seu bot converse no WhatsApp, ele precisa se tornar um serviço na internet. A comunicação funciona assim:
